@@ -1,1 +1,0 @@
-# oktayturkdagli.github.io
