@@ -43,7 +43,7 @@
  > 
 > 🔑 3 Private Repositories  
  > 
-**🌆I'm a Daytime person** 
+**🌆 I'm a Daytime person** 
 
 ```text
 🌞 Morning    4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.22% 
