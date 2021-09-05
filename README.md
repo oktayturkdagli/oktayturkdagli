@@ -16,7 +16,7 @@ Hi, I'm Oktay Türkdağlı, a passionate game developer from Turkey.
 - 📝 Here is my personal [portfolio website](http://oktayturkdagli.me/)
 - 📫 How to reach me **oktayturkdagli@gmail.com**
 
-## 👨‍💻 Languages and Tools:
+## 👨‍💻 Languages and Tools
 
 ![CSharp](https://img.shields.io/badge/-C%20Sharp-239120?logo=C-sharp&style=flat-square)
 ![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
