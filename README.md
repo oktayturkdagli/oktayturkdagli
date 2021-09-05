@@ -1,21 +1,20 @@
 
-<h3 align="center"><img width="30%" src="/images/readme_photo_1.png"></h3>
+### Hi there, I'm [Oktay Türkdağlı!](http://oktayturkdagli.me) 👋
+<a href="https://twitter.com/oktayturkdagli">
+<img align="left" alt="Oktay Türkdağlı | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" /></a>
 
-<h3 align="center">Hello, Oktay Türkdağlı</h3>
-<h4 align="center">A passionate game developer from Turkey</h3>
+<a href="https://discord.gg/">
+<img align="left" alt="Oktay Türkdağlı | Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" /></a>
 
-## 📖 About me
+<br/>
+<br/>
 
-- :computer: I'm a game developer
+Hi, I'm Oktay Türkdağlı, a passionate game developer from Turkey.
 
 - 🌱 I’m currently learning **Unity**
-
 - 🎓 I'm a Computer Science student (graduating in 2022)
-
 - 📝 Here is my personal [portfolio website](http://oktayturkdagli.me/)
-
 - 📫 How to reach me **oktayturkdagli@gmail.com**
-
 
 ## 👨‍💻 Languages and Tools:
 
