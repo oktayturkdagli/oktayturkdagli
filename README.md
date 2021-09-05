@@ -1,5 +1,5 @@
 
-<h3 align="center"><img width="30%" src="https://i.ibb.co/X8Kzg5W/playing-music-bro.png"></h3>
+<h3 align="center"><img width="30%" src="/images/readme_photo_1.png"></h3>
 
 <h3 align="center">Hello, Oktay Türkdağlı</h3>
 <h4 align="center">A passionate game developer from Turkey</h3>
