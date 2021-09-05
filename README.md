@@ -107,5 +107,8 @@ HTML                     1 repo              ████░░░░░░░�
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Oktay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oktayturkdagli&show_icons=true&count_private=true&theme=dark" /></a>
+
+[![Oktay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oktayturkdagli)]
+
 <!--START_SECTION:activity-->
 
