@@ -1,8 +1,8 @@
 
 
 ### Hi there, I'm [Oktay Türkdağlı!](http://oktayturkdagli.me) 👋
-[![Linkedin: oktayturkdagli](https://img.shields.io/badge/-oktayturkdagli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/oktayturkdagli/)
-![Appstore: oktayturkdagli](https://img.shields.io/badge/-oktayturkdagli-blue?style=flat-square&logo=appstore&logoColor=white&link=https://apps.apple.com/us/developer/oktay-turkdagli/id1569975043)
+[![Linkedin: oktayturkdagli](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/oktayturkdagli/)
+![Appstore: oktayturkdagli](https://img.shields.io/badge/-Appstore-blue?style=flat-square&logo=appstore&logoColor=white&link=https://apps.apple.com/us/developer/oktay-turkdagli/id1569975043)
 <br/><br/><br/>
 
 Hi, I'm Oktay Türkdağlı, a passionate game developer from Turkey.
