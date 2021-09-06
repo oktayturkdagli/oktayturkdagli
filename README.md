@@ -20,7 +20,7 @@ Hi, I'm Oktay Türkdağlı, a passionate game developer from Turkey.
 ![Rider](https://img.shields.io/badge/-Rider-5C2D91?logo=Rider&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![Mac](http://img.shields.io/badge/-Mac-000000?style=flat-square&logo=apple&logoColor=ffffff)
-<br/>
+<br/><br/>
 
 ## 📈 Github Stats
 
