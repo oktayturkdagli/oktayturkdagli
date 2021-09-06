@@ -28,8 +28,8 @@ Hi, I'm Oktay Türkdağlı, a passionate game developer from Turkey.
 
 ## 📈 Github Stats
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-991-blue)
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-874599%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/tokei/lines/github/oktayturkdagli/oktayturkdagli?label=From%20Hello%20World%20I%27ve%20Written%20)
+![Profile Views](https://img.shields.io/github/watchers/oktayturkdagli/oktayturkdagli?label=Profile%20Views)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Oktay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oktayturkdagli&show_icons=true&count_private=true&theme=dark" /></a>
