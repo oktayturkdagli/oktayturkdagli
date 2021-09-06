@@ -29,7 +29,7 @@ Hi, I'm Oktay Türkdağlı, a passionate game developer from Turkey.
 
 <img alt="Oktay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oktayturkdagli&show_icons=true&count_private=true&theme=dark" />
 
-![Oktay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oktayturkdagli&theme=dark&range=last_7_days))
+![Oktay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oktayturkdagli&theme=dark)
 <br/><br/>
 
 ## 📈 My Repositories
