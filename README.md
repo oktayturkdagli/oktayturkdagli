@@ -2,12 +2,10 @@
 
 ### Hi there, I'm [Oktay Türkdağlı!](http://oktayturkdagli.me) 👋
 <a href="https://twitter.com/oktayturkdagli">
-<img align="left" alt="Oktay Türkdağlı | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" /></a>
+<img align="left" alt="Oktay Türkdağlı | Linkedin" width="21px" src="https://raw.githubusercontent.com/oktayturkdagli/oktayturkdagli/master/images/linkedin_icon.png" /></a>
 
 <a href="https://discord.gg/">
-<img align="left" alt="Oktay Türkdağlı | Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" /></a>
-
-<br/>
+<img align="left" alt="Oktay Türkdağlı | Appstore" width="21px" src="https://raw.githubusercontent.com/oktayturkdagli/oktayturkdagli/master/images/appstore_icon.png" /></a>
 <br/>
 
 Hi, I'm Oktay Türkdağlı, a passionate game developer from Turkey.
