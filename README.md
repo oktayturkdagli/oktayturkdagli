@@ -6,7 +6,8 @@
 
 <a href="https://discord.gg/">
 <img align="left" alt="Oktay Türkdağlı | Appstore" width="21px" src="https://raw.githubusercontent.com/oktayturkdagli/oktayturkdagli/master/images/appstore_icon.png" /></a>
-<br/>
+<br/><br/>
+
 
 Hi, I'm Oktay Türkdağlı, a passionate game developer from Turkey.
 
