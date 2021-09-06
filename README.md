@@ -26,7 +26,9 @@ Hi, I'm Oktay Türkdağlı, a passionate game developer from Turkey.
 
 ![Lines of code](https://img.shields.io/tokei/lines/github/oktayturkdagli/oktayturkdagli?label=From%20Hello%20World%20I%27ve%20Written%20)
 ![Profile Views](https://img.shields.io/github/watchers/oktayturkdagli/oktayturkdagli?label=Profile%20Views)
+
 <img alt="Oktay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oktayturkdagli&show_icons=true&count_private=true&theme=dark" />
+
 ![Oktay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oktayturkdagli&theme=dark)
 <br/>
 
