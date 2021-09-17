@@ -5,7 +5,7 @@
 [![Linkedin: oktayturkdagli](https://img.shields.io/badge/-Appstore-blue?style=flat-square&logo=appstore&logoColor=white&link=https://apps.apple.com/us/developer/oktay-turkdagli/id1569975043)](https://apps.apple.com/us/developer/oktay-turkdagli/id1569975043)
 <br/>
 
-Hi, I'm Oktay Türkdağlı, a passionate game developer from Turkey.
+ A passionate game developer from Turkey.
 
 - 🌱 I’m currently learning **Unity**
 - 🎓 I'm a Computer Science student (graduating in 2022)
