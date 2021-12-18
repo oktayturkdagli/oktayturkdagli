@@ -7,10 +7,10 @@
 
  A passionate game developer from Turkey.
 
-- 🌱 I’m currently learning **Unity**
-- 🎓 I'm a Computer Science student (graduating in 2022)
-- 📝 Here is my personal [portfolio website](http://oktayturkdagli.me/)
-- 📫 How to reach me **oktayturkdagli@gmail.com**
+- 🌱&nbsp;I’m currently learning **Unity**
+- 🎓&nbsp;I'm a Computer Science student (graduating in 2022)
+- 📝&nbsp;Here is my personal [portfolio website](http://oktayturkdagli.me/)
+- 📫&nbsp;How to reach me **oktayturkdagli@gmail.com**
 <br/>
 
 ## 👨‍💻 Languages and Tools
