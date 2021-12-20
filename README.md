@@ -33,7 +33,7 @@
 <br/><br/>
 
 ## 📈 My Repositories
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oktayturkdagli&repo=observer-pattern-with-csharp-events&theme=dark" />&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oktayturkdagli&repo=observer-pattern-with-csharp-events&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oktayturkdagli&repo=observer-pattern-in-unity&theme=dark" />&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oktayturkdagli&repo=observer-pattern-with-csharp-events&theme=dark" />
 <br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oktayturkdagli&repo=observer-pattern-with-csharp-events&theme=dark" />&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oktayturkdagli&repo=observer-pattern-with-csharp-events&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oktayturkdagli&repo=observer-pattern-with-unity-events&theme=dark" />&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oktayturkdagli&repo=observer-pattern-with-unity-events&theme=dark" />
 <br><br>
