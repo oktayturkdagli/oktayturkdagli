@@ -9,7 +9,7 @@
 
 - 🌱  I’m currently learning **Unity**
 - 🎓  I'm a Computer Science student (graduating in 2022)
-- 📝  Here is my personal [portfolio website](http://oktayturkdagli.me/)
+- 📝  Here is my personal [portfolio website](https://github.com/oktayturkdagli)
 - 📫. How to reach me **oktayturkdagli@gmail.com**
 <br/>
 
@@ -33,7 +33,7 @@
 <br/><br/>
 
 ## 📈 My Repositories
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oktayturkdagli&repo=oktayturkdagli&theme=dark" />&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oktayturkdagli&repo=oktayturkdagli&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oktayturkdagli&repo=observer-pattern-with-csharp-events&theme=dark" />&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oktayturkdagli&repo=observer-pattern-with-csharp-events&theme=dark" />
 <br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oktayturkdagli&repo=oktayturkdagli&theme=dark" />&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oktayturkdagli&repo=oktayturkdagli&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oktayturkdagli&repo=observer-pattern-with-csharp-events&theme=dark" />&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oktayturkdagli&repo=observer-pattern-with-csharp-events&theme=dark" />
 <br><br>
