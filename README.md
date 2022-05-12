@@ -22,6 +22,7 @@
 ![Mac](http://img.shields.io/badge/-Mac-000000?style=flat-square&logo=apple&logoColor=ffffff)
 <br/><br/>
 
+<!--
 ## 📈 Github Stats
 
 ![Lines of code](https://img.shields.io/tokei/lines/github/oktayturkdagli/oktayturkdagli?label=From%20Hello%20World%20I%27ve%20Written%20)
@@ -31,6 +32,8 @@
 
 ![Oktay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oktayturkdagli&theme=dark)
 <br/><br/>
+-->
+
 <!--
 ## 📈 My Repositories
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oktayturkdagli&repo=observer-pattern-in-unity&theme=dark" />&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oktayturkdagli&repo=observer-pattern-with-csharp-events&theme=dark" />
