@@ -11,9 +11,10 @@ A passionate game developer from Turkey.
 - 📝  Here is my personal [portfolio website](https://oktayturkdagli.github.io/)
 - 📫. How to reach me **oktayturkdagli@gmail.com**
 
+<!--
 ## 👨‍💻 Languages and Tools
-
 ![CSharp](https://img.shields.io/badge/-C%20Sharp-239120?logo=C-sharp&style=flat-square) ![Unity](https://img.shields.io/badge/-Unity-000000?logo=Unity&style=flat-square) ![Rider](https://img.shields.io/badge/-Rider-5C2D91?logo=Rider&style=flat-square) ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+-->
 
 <!--
 ##   📈 Statistics
