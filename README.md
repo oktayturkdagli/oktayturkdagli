@@ -9,7 +9,9 @@
 
 A passionate game developer from Turkey.
 
+<!-- 
 - 🌱  I’m currently learning **Unity**
+-->
 - 📝  Here is my personal [portfolio website](https://oktayturkdagli.github.io/)
 - 📫. How to reach me **oktayturkdagli@gmail.com**
 
