@@ -3,7 +3,9 @@
 
 ### Hi there, I'm [Oktay Türkdağlı!](https://oktayturkdagli.github.io/) 👋
 [![Linkedin: oktayturkdagli](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oktayturkdagli)](https://www.linkedin.com/in/oktayturkdagli/)
-[![Linkedin: oktayturkdagli](https://img.shields.io/badge/-Appstore-blue?style=flat-square&logo=appstore&logoColor=white&link=https://apps.apple.com/us/developer/oktay-turkdagli/id1569975043)](https://apps.apple.com/us/developer/oktay-turkdagli/id1569975043)
+<!-- 
+[![Appstore: oktayturkdagli](https://img.shields.io/badge/-Appstore-blue?style=flat-square&logo=appstore&logoColor=white&link=https://apps.apple.com/us/developer/oktay-turkdagli/id1569975043)](https://apps.apple.com/us/developer/oktay-turkdagli/id1569975043)
+-->
 
 A passionate game developer from Turkey.
 
