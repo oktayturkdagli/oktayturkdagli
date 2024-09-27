@@ -43,7 +43,7 @@ I am a software engineer experienced in game development with Unity. I previousl
       <td>Tap on the board to trigger rapid expansion and claim the largest surface.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/oktayturkdagli/stacky-dash"><b>🏃‍➡️ Stacky Dash </b></a></td>
+      <td><a href="https://github.com/oktayturkdagli/stacky-dash"><b>🏄 Stacky Dash </b></a></td>
       <td>Swipe your finger to dash your hero across the mazes.</td>
     </tr>
   </tbody>
