@@ -4,8 +4,8 @@
 
 I am a software engineer experienced in game development with Unity. I previously worked for an autonomous bus company and then moved to a mobile gaming company. My passion is building custom solutions to create intuitive user experiences and streamline game development workflows.
 
-- 📝  Here is my personal [portfolio website](https://oktayturkdagli.github.io/)
-- 📫. How to reach me **oktayturkdagli@gmail.com**
+<!-- - 📝  Here is my personal [portfolio website](https://oktayturkdagli.github.io/)
+- 📫. How to reach me **oktayturkdagli@gmail.com**-->
 
 
 ## 👨‍💻 Languages and Tools
