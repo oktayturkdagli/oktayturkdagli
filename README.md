@@ -1,5 +1,5 @@
 ## Hi there, I'm [Oktay Türkdağlı!](https://oktayturkdagli.dev/) 👋
-[![Website: oktayturkdagli](https://img.shields.io/badge/-WebSite-blue?style=flat-square&logo=Github&logoColor=white&link=https://oktayturkdagli.dev/)](https://oktayturkdagli.dev/) [![Linkedin: oktayturkdagli](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oktayturkdagli)](https://www.linkedin.com/in/oktayturkdagli/) 
+[![Website: oktayturkdagli](https://img.shields.io/badge/-Website-blue?style=flat-square&logo=Github&logoColor=white&link=https://oktayturkdagli.dev/)](https://oktayturkdagli.dev/) [![Linkedin: oktayturkdagli](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oktayturkdagli)](https://www.linkedin.com/in/oktayturkdagli/) 
 <!-- [![Appstore: oktayturkdagli](https://img.shields.io/badge/-Appstore-blue?style=flat-square&logo=appstore&logoColor=white&link=https://apps.apple.com/us/developer/oktay-turkdagli/id1569975043)](https://apps.apple.com/us/developer/oktay-turkdagli/id1569975043) -->
 
 Hi, I'm a software engineer, I develop games and indie stuff. Currently working as a Game Developer at Zuuks Games. Previously, I worked as Unity Developer at Adastec, Game Developer at Shaker Games.
